@@ -212,7 +212,7 @@
 **시스템 프로그래밍 002분반 18조 청바지**
 
 * **팀장**: 정덕환 (22학번) - Tech Lead & System Integration
-* **팀원**: 김건우 (24학번) - Vaccine Logic & UX
+* **팀원**: 김건우 (24학번) - Vaccine Logic & UX & Presentation
 * **팀원**: 김민준 (24학번) - Virus Logic & QA
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
