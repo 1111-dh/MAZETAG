@@ -125,7 +125,20 @@
     * 플레이어 2: **Virus (Join)** 선택
     * 관전자: **OBSERVER** 선택
 
-![Gameplay Demo](images/demo.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/main.png" width="100%" />
+      <br />
+      <b>[메인 화면]</b>
+    </td>
+    <td align="center">
+      <img src="images/waiting.png" width="100%" />
+      <br />
+      <b>[대기 화면]</b>
+    </td>
+  </tr>
+</table>
 
 ### 조작법
 
@@ -144,11 +157,41 @@
     * **목표:** 맵에 숨겨진 **파일(💾)** 4개를 모두 찾아 삭제(획득)해야 합니다.
     * **패배 조건:** 파일을 모두 모으기 전에 백신에게 잡히면 패배(삭제)됩니다.
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/vaccine.png" width="100%" />
+      <br />
+      <b>[백신 화면]</b>
+    </td>
+    <td align="center">
+      <img src="images/virus.png" width="100%" />
+      <br />
+      <b>[바이러스 화면]</b>
+    </td>
+  </tr>
+</table>
+
 ### 아이템
 
 * **파일 (💾)**: 바이러스의 승리 목표물 (백신에게는 보이지 않음).
 * **텔레포트 (🔮)**: 획득 시 맵의 랜덤한 위치로 즉시 이동합니다.
 * **얼음 (🧊)**: 획득 시 상대방을 3초간 **동결(Freeze)** 시킵니다.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/file.png" width="100%" />
+      <br />
+      <b>[파일]</b>
+    </td>
+    <td align="center">
+      <img src="images/freeze.png" width="100%" />
+      <br />
+      <b>[얼음]</b>
+    </td>
+  </tr>
+</table>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
